@@ -1,0 +1,8 @@
+*.lock
+*.log
+*.ini
+*.index
+*.prefs
+*.xmi
+*.xml
+*.properties
